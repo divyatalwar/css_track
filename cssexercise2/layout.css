@@ -1,0 +1,66 @@
+#html {margin-left :0px;
+  padding:0px;
+}
+
+#header{
+  font:tohoma;
+  font-size:24px;
+  color:black;
+  background-color:#b2e7ff;
+  text-align:center;
+  border-bottom: solid 2px #0ab1ff;
+  padding:20px;
+}
+
+#footer
+  {
+  background-color:#3cff78;
+  font-family:'tohoma';
+  font-size:24px;
+  color:black;
+  text-align:center;
+  border-bottom: solid 2px #0ab1ff;
+  padding:20px;
+}
+
+#content
+{
+  background:#ededed;
+  font-family:'tohoma';
+  font-size:24px;
+  color:black;
+  padding:10px;
+  float:left;
+  width:730px;
+}
+
+#container_outer {
+  background-image:url('/home/nishant/sample.png');
+  overflow:hidden;
+}
+
+#navigation li ,#navigation li a {
+  font-size:14px;
+  color:white;
+  text-decoration:none;
+  
+ }
+#sidebar {
+  background-color:#0ab1ff;
+  font:'tohoma';
+  font-size:18px;
+  color:black;
+  padding-top:25px;
+  padding-bottom:25px;
+  padding-left:10px;
+  padding-right:10px;
+  float:left;
+  width:250px;
+}
+#sidebar_content {
+  font-size:12px; 
+}
+#para_content {
+  color:#802525;
+  font-size:14px;
+}
